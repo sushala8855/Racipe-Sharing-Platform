@@ -1,0 +1,22 @@
+.custom-card {
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+  .custom-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-title {
+    color: #007BFF;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    color: #555;
+  }
+  
+  .img-fluid {
+    border-radius: 15px;
+  }
+  
